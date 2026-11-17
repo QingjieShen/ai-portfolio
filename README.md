@@ -3,9 +3,6 @@
 ## Overview
 This project is a personal portfolio website built with React and TypeScript, featuring an AI Assistant powered by OpenAI. The AI chatbot is designed to answer questions related to your CV, providing a dynamic and interactive experience for users. The project is highly customizable, allowing you to easily update your personal information and showcase your work.
 
-## Complete Demo
-[qingjie.dev](https://qingjie.dev/)
-
 ## Key Features
 ### AI Assistant
 - Integrate your OpenAI Assistant by uploading your CV and passing in the worker link to bring the chatbot to life. This feature allows visitors to interact with your AI Assistant and get answers related to your career.
